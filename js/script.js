@@ -12,6 +12,6 @@ bottone.addEventListener("click", function(){
         lampadina.src = "./img/yellow_lamp.png";
         lampadina.alt ="lampadina spenta";
         lampadina.classList.add("acceso")
-        bottone.innerHTML = "Premimi per spengere la luce!";
+        bottone.innerHTML = "Premimi per accendere la luce!";
     }
 })
